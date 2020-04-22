@@ -7,7 +7,7 @@ import static org.assertj.core.api.Assertions.*;
 import static org.mockito.Mockito.*;
 
 
-public class AppTest {
+public class SmallestDifferenceTest {
     private MyInterface myInterface;
 
     @BeforeEach
